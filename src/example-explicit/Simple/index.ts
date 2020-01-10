@@ -1,0 +1,1 @@
+export { Simple as default } from "./Simple"
